@@ -1,6 +1,8 @@
 ---
 title: Cargo, Rust's Package Manager
 ---
+# Download cargo
+First, download and install cargo from https://github.com/rust-lang/cargo.  You may need to upgrade your rust installation if it's more than a few days old.
 
 # Let's Get Started
 
